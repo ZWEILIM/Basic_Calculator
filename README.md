@@ -1,3 +1,3 @@
 # Basic_Calculator
 
-Making this calculator as same as the windows build-in calculator.
+Basic calculator is basically similar to the calculator that the windows provide. It has basic functions such as add,multiply,subtract,divide,open file and also the history bar.
