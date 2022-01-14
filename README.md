@@ -1,2 +1,2 @@
 # Basic_Calculator
-Basic WIdows Calculator
+Basic Windows Calculator
